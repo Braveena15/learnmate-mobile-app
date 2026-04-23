@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# learnmate-mobile-app
+A full-stack mobile application for school management developed using React Native (Expo), Node.js, and MongoDB. Features include JWT-based authentication, role-based access control, timetable, attendance, exams, marks, fees, notifications, and dashboard analytics.
+>>>>>>> e4b8e5082873f1ff3bd641846d15f53644a35943
