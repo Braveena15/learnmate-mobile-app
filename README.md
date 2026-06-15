@@ -1,8 +1,8 @@
-# LearnMate-WMT Mobile App
+LearnMate-WMT Mobile App
 
 This is the mobile application of the LearnMate-WMT project, developed using React Native (Expo). It supports role-based access for Admin, Teacher, Student, and Parent to manage school operations efficiently.
 
-## Features
+Features
 
 - User Authentication (Login & Register)
 - JWT-based secure authentication
@@ -14,7 +14,7 @@ This is the mobile application of the LearnMate-WMT project, developed using Rea
 - Fee management system
 - Notifications and announcements
 
-## Technologies Used
+Technologies Used
 
 - React Native (Expo)
 - TypeScript
@@ -22,8 +22,3 @@ This is the mobile application of the LearnMate-WMT project, developed using Rea
 - Express.js
 - MongoDB
 
-## How to Run
-
-1. Install dependencies:
-   ```bash
-   npm install
